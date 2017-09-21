@@ -1,0 +1,12 @@
+E:\作业\李娜.Net\作业\test1.2\test1.2\bin\Debug\test1.2.exe.config
+E:\作业\李娜.Net\作业\test1.2\test1.2\bin\Debug\test1.2.exe
+E:\作业\李娜.Net\作业\test1.2\test1.2\bin\Debug\test1.2.pdb
+E:\作业\李娜.Net\作业\test1.2\test1.2\obj\Debug\test1.2.exe
+E:\作业\李娜.Net\作业\test1.2\test1.2\obj\Debug\test1.2.pdb
+E:\作业\李娜.Net\作业\test1.2\test1.2\obj\Debug\test1.2.csprojResolveAssemblyReference.cache
+E:\作业\李静.Net\作业\20142966-黄伟鹏\源程序\20142966-黄伟鹏-sy1-2\test1.2\bin\Debug\test1.2.exe.config
+E:\作业\李静.Net\作业\20142966-黄伟鹏\源程序\20142966-黄伟鹏-sy1-2\test1.2\obj\Debug\test1.2.exe
+E:\作业\李静.Net\作业\20142966-黄伟鹏\源程序\20142966-黄伟鹏-sy1-2\test1.2\obj\Debug\test1.2.pdb
+E:\作业\李静.Net\作业\20142966-黄伟鹏\源程序\20142966-黄伟鹏-sy1-2\test1.2\bin\Debug\test1.2.exe
+E:\作业\李静.Net\作业\20142966-黄伟鹏\源程序\20142966-黄伟鹏-sy1-2\test1.2\bin\Debug\test1.2.pdb
+E:\作业\李静.Net\作业\20142966-黄伟鹏\源程序\20142966-黄伟鹏-sy1-2\test1.2\obj\Debug\test1.2.csprojResolveAssemblyReference.cache

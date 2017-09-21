@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\DBCL.dll.config
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\DBCL.dll
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\DBCL.pdb
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\obj\Debug\DBCL.dll
+C:\Users\Administrator\Desktop\超市信息管理\DBCL\obj\Debug\DBCL.pdb
